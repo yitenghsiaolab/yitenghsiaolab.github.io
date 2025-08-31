@@ -6,7 +6,7 @@ type: landing
 
 sections:
   - block: slider
-    content:
+    content: 
       slides:
       - title: Nano-Optics & Biophysics Lab
         content: 'Hsiao Lab @ NYCU Electrophysics'
