@@ -84,8 +84,6 @@ user_groups:
 <p style="text-align: justify;">
 Dr. Yi-Teng Hsiao’s research focuses on light–matter interactions at the nanometer scale, particularly in complex systems. His work not only advances fundamental optics but also drives the development of cutting-edge imaging techniques, enabling new insights in both physics and biology.
 </p>
-</FONT>
-<FONT SIZE=3>
 <p style="text-align: justify;">
 Dr. Hsiao earned his Ph.D. in 2017 from National Central University (NCU), Taiwan, where he investigated the biophysics of cancer–endothelial cell mixtures and collective dynamics in bacterial carpets under Prof. Lin I and Prof. Wei-Yen Woon. In 2018, he served as Chief Engineer and Researcher at AcroMass Technologies, Inc., developing novel mass spectrometry methods. From 2019 to 2025, he conducted postdoctoral research at the Institute of Atomic and Molecular Sciences (IAMS), Academia Sinica, Taiwan, focusing on interferometric scattering (iSCAT) microscopy and DYNAMICS imaging with Prof. Chia-Lung Hsieh. In recognition of his contributions, he received the Academic Research Award for Postdoctoral Researchers from the NSTC in 2022. In August 2025, he joined the Department of Electrophysics at National Yang Ming Chiao Tung University (NYCU) as a Principal Investigator and founded the Nano-Optics and Biophysics Lab.
 </p>
