@@ -18,17 +18,6 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-
-      - title: Nano-Optics & Biophysics Lab
-        content: 'Hsiao Lab @ NYCU Electrophysics'
-        align: center
-        background:
-          image:
-            filename: Lab_6.png
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
           
       - title: Nano-Optics & Biophysics Lab
         content: ''
@@ -45,6 +34,18 @@ sections:
           icon_pack: fas
           text: Join Us
           url: ../Lab_website/contact/
+          
+      - title: ''
+        content: ''
+        align: center
+        background:
+          image:
+            filename: Lab_6.png
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''

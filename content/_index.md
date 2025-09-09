@@ -19,16 +19,16 @@ sections:
           position: right
           color: '#666'
 
-      - title: Nano-Optics & Biophysics Lab
-        content: 'Hsiao Lab @ NYCU Electrophysics'
-        align: center
-        background:
-          image:
-            filename: Lab_5.png
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
+#      - title: Nano-Optics & Biophysics Lab
+#        content: 'Hsiao Lab @ NYCU Electrophysics'
+#        align: center
+#        background:
+#          image:
+#            filename: Lab_5.png
+#            filters:
+#              brightness: 0.7
+#          position: right
+#          color: '#666'
           
       - title: Nano-Optics & Biophysics Lab
         content: ''
