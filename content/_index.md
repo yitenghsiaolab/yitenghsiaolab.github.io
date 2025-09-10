@@ -79,7 +79,7 @@ sections:
       title: |
         Welcome to 
       image:
-        filename: Lab_1.png
+        filename: Lab_10.png
       text: |
         Hsiao Lab @ NYCU Electrophysics
         <font size="5"><p style="text-align: justify;">
