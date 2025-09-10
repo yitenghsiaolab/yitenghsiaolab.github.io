@@ -82,9 +82,9 @@ sections:
         filename: Lab_1.png
       text: |
         Hsiao Lab @ NYCU Electrophysics
-        <br><font size="5">
-        We are developing innovative optical microscope techniques. 
-        </font>
+        <font size="4"><p>
+        We focus on developing innovative optical microscopy techniques for quantitative biophysical measurements, offering new perspectives in biophysics research. 
+        </p></font>
 
   - block: collection
     content:
