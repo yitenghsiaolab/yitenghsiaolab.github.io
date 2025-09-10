@@ -123,7 +123,7 @@ sections:
       order: desc
       page_type: research
     design:
-      view: card #stream
+      view: showcase #stream
       columns: '2' 
 
   - block: collection

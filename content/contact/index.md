@@ -12,7 +12,8 @@ sections:
         If you are interested in joining us, please contact me (Dr. Yi-Teng Hsiao).
       
       email: yitenghsiao@nycu.edu.tw
-      phone: '+886-3-5712121 #56127 (Office) #56165 (Lab)'
+      phone: '+886-3-5712121 #56127 (Office)'
+      phone: '+886-3-5712121 #56165 (Lab)'
       address:
         street: NYCU Electrophysics, No 1001, University Rd.
         city: Hsinchu
