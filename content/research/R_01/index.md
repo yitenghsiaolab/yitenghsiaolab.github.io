@@ -1,5 +1,5 @@
 ---
-title: Innovative microscopy techniques
+title: Innovative optical microscopy techniques
 summary: summary
 date: 2025-08-03
 image:
