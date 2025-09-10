@@ -44,7 +44,7 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: Join Us
-          url: ../Lab_website/contact/
+          url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
@@ -87,7 +87,6 @@ sections:
         {{% cta cta_link="../contact/" cta_text="Join us →" %}}
         </p></font>
         
-
   - block: collection
     content:
       title: News

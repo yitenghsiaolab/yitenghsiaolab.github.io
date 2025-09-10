@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#666'
           
-      - title: Nano-Optics & Biophysics Lab
+      - title: 'Hsiao Lab @ NYCU Electrophysics'
         content: ''
         align: right
         background:
@@ -33,7 +33,7 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: Join Us
-          url: ../Lab_website/contact/
+          url: ../contact/
           
       - title: ''
         content: ''
