@@ -42,7 +42,7 @@ sections:
           image:
             filename: Lab_7.png
             filters:
-              brightness: 0.75
+              brightness: 0.85
           position: right
           color: '#666'
 
