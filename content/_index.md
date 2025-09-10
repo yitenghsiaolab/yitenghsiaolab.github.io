@@ -124,7 +124,7 @@ sections:
       page_type: research
     design:
       view: showcase #stream
-      columns: '2' 
+      columns: '1' 
 
   - block: collection
     content:
