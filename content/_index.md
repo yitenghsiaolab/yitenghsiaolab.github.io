@@ -15,20 +15,20 @@ sections:
           image:
             filename: Banner.png
             filters:
-              brightness: 0.7
+              brightness: 0.6
           position: right
           color: '#666'
 
-#      - title: Nano-Optics & Biophysics Lab
-#        content: 'Hsiao Lab @ NYCU Electrophysics'
-#        align: center
-#        background:
-#          image:
-#            filename: Lab_5.png
-#            filters:
-#              brightness: 0.7
-#          position: right
-#          color: '#666'
+      - title: ''
+        content: ''
+        align: center
+        background:
+          image:
+            filename: Lab_7.png
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
           
       - title: 'Hsiao Lab @ NYCU Electrophysics'
         content: ''
