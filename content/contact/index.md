@@ -10,8 +10,6 @@ sections:
       #title: Contact
       text: 
         If you are interested in joining us, please contact me (Dr. Yi-Teng Hsiao).
-        
-        <a href="https://ep.nycu.edu.tw/faculty_info/%e8%95%ad%e7%bf%8c%e7%99%bb/" target="_blank">Website in Department of Electrophysics, NYCU</a>
       
       email: yitenghsiao@nycu.edu.tw
       phone: '+886-3-5712121 #56127'
