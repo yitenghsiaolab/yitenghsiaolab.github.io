@@ -1,7 +1,7 @@
 ---
 title: Biophysics studies
 summary: summary
-#date: 2025-08-01
+date: 2025-08-03
 image:
   focal_point: 'top'
 show_date: false
