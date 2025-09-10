@@ -15,7 +15,7 @@ sections:
           image:
             filename: Banner.png
             filters:
-              brightness: 0.6
+              brightness: 0.75
           position: right
           color: '#666'
           
@@ -26,7 +26,7 @@ sections:
           image:
             filename: Lab_3.jpg
             filters:
-              brightness: 0.5
+              brightness: 0.6
           position: center
           color: '#333'
         link:
