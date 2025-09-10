@@ -85,6 +85,7 @@ sections:
         <font size="5"><p style="text-align: justify;">
         We focus on developing innovative optical microscopy techniques for quantitative biophysical measurements, offering new perspectives in biophysics research. 
         </p></font>
+        {{% cta cta_link="../Lab_website/contact/" cta_text="Join us →" %}}
 
   - block: collection
     content:
@@ -137,12 +138,12 @@ sections:
       view: citation
       columns: '2'
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="../Lab_website/contact/" cta_text="Join us →" %}}
-    design:
-      columns: '1'
+  #- block: markdown
+  #  content:
+  #    title:
+  #    subtitle:
+  #    text: |
+  #      {{% cta cta_link="../Lab_website/contact/" cta_text="Join us →" %}}
+  #  design:
+  #    columns: '1'
 ---
