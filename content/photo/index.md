@@ -34,7 +34,18 @@ sections:
           icon_pack: fas
           text: Join Us
           url: ../contact/
-          
+      
+      - title: ''
+        content: ''
+        align: center
+        background:
+          image:
+            filename: Lab_7.png
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+
       - title: ''
         content: ''
         align: center
