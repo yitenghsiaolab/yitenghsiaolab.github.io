@@ -30,7 +30,7 @@ sections:
 #          position: right
 #          color: '#666'
           
-      - title: Nano-Optics & Biophysics Lab
+      - title: 'Hsiao Lab @ NYCU Electrophysics'
         content: ''
         align: right
         background:
