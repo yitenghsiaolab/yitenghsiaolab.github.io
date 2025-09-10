@@ -1,5 +1,5 @@
 ---
-title: DYNAMICS imaging
+title: Innovative microscopy techniques
 summary: summary
 #date: 2025-08-01
 image:

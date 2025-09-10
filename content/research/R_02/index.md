@@ -1,5 +1,5 @@
 ---
-title: DYNAMICS imaging
+title: Advanced temporal analysis methods
 summary: summary
 #date: 2025-08-01
 image:

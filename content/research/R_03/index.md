@@ -1,5 +1,5 @@
 ---
-title: DYNAMICS imaging
+title: Biophysics studies
 summary: summary
 #date: 2025-08-01
 image:
