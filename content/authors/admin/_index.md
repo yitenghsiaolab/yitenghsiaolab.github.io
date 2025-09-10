@@ -64,9 +64,9 @@ social:
 #    link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  - icon: cv
+    icon_pack: ai
+    link: https://ep.nycu.edu.tw/faculty_info/%e8%95%ad%e7%bf%8c%e7%99%bb/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -87,10 +87,8 @@ Dr. Yi-Teng Hsiao’s research focuses on light–matter interactions at the nan
 <p style="text-align: justify;">
 Dr. Hsiao earned his Ph.D. in 2017 from National Central University (NCU), Taiwan, where he investigated the biophysics of cancer–endothelial cell mixtures and collective dynamics in bacterial carpets under Prof. Lin I and Prof. Wei-Yen Woon. In 2018, he served as Chief Engineer and Researcher at AcroMass Technologies, Inc., developing novel mass spectrometry methods. From 2019 to 2025, he conducted postdoctoral research at the Institute of Atomic and Molecular Sciences (IAMS), Academia Sinica, Taiwan, focusing on interferometric scattering (iSCAT) microscopy and DYNAMICS imaging with Prof. Chia-Lung Hsieh. In recognition of his contributions, he received the Academic Research Award for Postdoctoral Researchers from the NSTC in 2022. In August 2025, he joined the Department of Electrophysics at National Yang Ming Chiao Tung University (NYCU) as a Principal Investigator and founded the Nano-Optics and Biophysics Lab.
 </p>
-<a href="https://ep.nycu.edu.tw/faculty_info/%e8%95%ad%e7%bf%8c%e7%99%bb/" target="_blank">Personal website in Department of Electrophysics, NYCU</a>
-
 </FONT>
 
 <!-- 
-XD
+<a href="https://ep.nycu.edu.tw/faculty_info/%e8%95%ad%e7%bf%8c%e7%99%bb/" target="_blank">Personal website in Department of Electrophysics, NYCU</a>
 -->
