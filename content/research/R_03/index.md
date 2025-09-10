@@ -7,7 +7,7 @@ image:
 show_date: false
 ---
 
-Nano-Optics & Biophysics lab is starting on Aug 1, 2025. 
+We will apply the developed platform to study biomphysics, in particular its dynamics, both in vitro and in living cells.
 
 <!--more-->
 

@@ -7,7 +7,7 @@ image:
 show_date: false
 ---
 
-Nano-Optics & Biophysics lab is starting on Aug 1, 2025. 
+We will develop a customizable iSCAT platform with flexible illumination configurations, optimized for high-sensitivity imaging in dense and heterogeneous 3D cellular environments. This includes implementing adaptable optical geometries and coherence control to match the optical properties of different biological samples.
 
 <!--more-->
 
