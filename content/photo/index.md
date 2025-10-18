@@ -40,7 +40,7 @@ sections:
         align: center
         background:
           image:
-            filename: Lab_7.png
+            filename: Lab_11.png
             filters:
               brightness: 0.85
           position: right
@@ -52,6 +52,17 @@ sections:
         background:
           image:
             filename: Lab_6.png
+            filters:
+              brightness: 0.85
+          position: right
+          color: '#666'
+
+      - title: ''
+        content: ''
+        align: center
+        background:
+          image:
+            filename: Lab_7.png
             filters:
               brightness: 0.85
           position: right
