@@ -73,5 +73,4 @@ user_groups:
   - Undergraduate Students
 ---
 
-If you are interested in joining us, please contact me (Dr. Yi-Teng Hsiao).
-{{% cta cta_link="../contact/" cta_text="Join us →" %}}
+
