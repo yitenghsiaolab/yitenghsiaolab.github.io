@@ -14,6 +14,7 @@ sections:
           - PhD Students
           - Master Students
           - Undergraduate Students
+          - Students
           - Researchers
           - Principal Investigators
           - Administration
