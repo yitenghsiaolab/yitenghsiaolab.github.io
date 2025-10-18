@@ -15,7 +15,7 @@ sections:
           - PhD Students
           - Master Students
           - Undergraduate Students
-          - Students 
+          - Postdoctoral Fellow, Research Assistant, & Students
           - Alumni
       sort_by: Params.last_name
       sort_ascending: true
