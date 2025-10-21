@@ -25,18 +25,18 @@ organizations:
 bio: #My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - #Artificial Intelligence
-  - #Computational Linguistics
+  - Basketball
+  - Travel
   - #Information Retrieval
 
 education:
   courses:
-    - course: #PhD in Artificial Intelligence
-      institution: #Stanford University
-      year: #2012
-    - course: #MEng in Artificial Intelligence
-      institution: #Massachusetts Institute of Technology
-      year: #2009
+    - course: M.S. in Electrophysics
+      institution: National Yang Ming Chiao Tung University
+      year: 2025/9 - 
+    - course: B.S. in Physics
+      institution: National Changhua University of Education
+      year: 2021/09 - 2025/06
     - course: #BSc in Artificial Intelligence
       institution: #Massachusetts Institute of Technology
       year: #2008
