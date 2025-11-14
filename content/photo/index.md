@@ -45,6 +45,17 @@ sections:
               brightness: 0.92
           position: right
           color: '#666'
+      
+      - title: ''
+        content: ''
+        align: center
+        background:
+          image:
+            filename: Lab_13.png
+            filters:
+              brightness: 0.85
+          position: right
+          color: '#666'
 
       - title: ''
         content: ''
