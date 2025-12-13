@@ -37,9 +37,7 @@ education:
     - course: B.S. in Physics
       institution: National Changhua University of Education
       year: 2021/09 - 2025/06
-    - course: #BSc in Artificial Intelligence
-      institution: #Massachusetts Institute of Technology
-      year: #2008
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

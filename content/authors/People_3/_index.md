@@ -25,22 +25,17 @@ organizations:
 bio: #My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - #Artificial Intelligence
-  - #Computational Linguistics
-  - #Information Retrieval
+  - Formula Racing
+  - Tennis
+  - Singing
+  - Photography 
 
 education:
   courses:
-    - course: #PhD in Artificial Intelligence
-      institution: #Stanford University
-      year: #2012
-    - course: #MEng in Artificial Intelligence
-      institution: #Massachusetts Institute of Technology
-      year: #2009
-    - course: #BSc in Artificial Intelligence
-      institution: #Massachusetts Institute of Technology
-      year: #2008
-
+    - course: B.S. Electrophysics- Photonics and Nano-Sciences 
+      institution: National Yang Ming Chiao Tung University 
+      year: 2021/09 - 
+    
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -73,4 +68,4 @@ user_groups:
   - Undergraduate Students
 ---
 
-
+Hello, I'm Renee and I'm an international student from the Philippines.
