@@ -27,7 +27,6 @@ bio: #My research interests include distributed robotics, mobile computing and p
 interests:
   - Basketball
   - Travel
-  - #Information Retrieval
 
 education:
   courses:
