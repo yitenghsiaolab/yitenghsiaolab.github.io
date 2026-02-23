@@ -19,21 +19,32 @@ sections:
           position: right
           color: '#666'
           
-      - title: 'Hsiao Lab @ NYCU Electrophysics'
+      #- title: 'Hsiao Lab @ NYCU Electrophysics'
+      #  content: ''
+      #  align: right
+      #  background:
+      #    image:
+      #      filename: Lab_3.jpg
+      #      filters:
+      #        brightness: 0.6
+      #    position: center
+      #    color: '#333'
+      #  link:
+      #    icon: graduation-cap
+      #    icon_pack: fas
+      #    text: Join Us
+      #    url: ../contact/
+      
+      - title: ''
         content: ''
-        align: right
+        align: center
         background:
           image:
-            filename: Lab_3.jpg
+            filename: Lab_15.png
             filters:
-              brightness: 0.6
-          position: center
-          color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+              brightness: 0.92
+          position: right
+          color: '#666'
 
       - title: ''
         content: ''
