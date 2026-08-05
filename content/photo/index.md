@@ -24,7 +24,7 @@ sections:
         align: right
         background:
           image:
-            filename: Banner_2.jpg
+            filename: Banner_2.png
             filters:
               brightness: 0.75
           position: center
