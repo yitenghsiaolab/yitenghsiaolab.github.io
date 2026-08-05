@@ -117,7 +117,7 @@ sections:
         align: center
         background:
           image:
-            filename: icon.png
+            filename: Lab_18.png
             filters:
               brightness: 0.85
           position: right
