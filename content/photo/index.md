@@ -111,6 +111,17 @@ sections:
               brightness: 0.85
           position: right
           color: '#666'
+      
+      - title: ''
+        content: ''
+        align: center
+        background:
+          image:
+            filename: icon.png
+            filters:
+              brightness: 0.85
+          position: right
+          color: '#666'
 
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
