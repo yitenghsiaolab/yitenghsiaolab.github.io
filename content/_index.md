@@ -119,7 +119,7 @@ sections:
     content:
       title: Latest Publication
       text: ""
-      count: 1
+      count: 2
       filters:
         folders:
           - publication
