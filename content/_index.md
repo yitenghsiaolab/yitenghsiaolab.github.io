@@ -24,9 +24,9 @@ sections:
         align: right
         background:
           image:
-            filename: Lab_3.jpg
+            filename: Banner_2.jpg
             filters:
-              brightness: 0.6
+              brightness: 0.75
           position: center
           color: '#333'
         link:
