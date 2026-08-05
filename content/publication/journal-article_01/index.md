@@ -31,6 +31,8 @@ abstract: Chromatin organization and dynamics play important roles in governing 
 
 tags:
 - iSCAT
+- Optics
+- Cell biology
 featured: false
 
 # links:

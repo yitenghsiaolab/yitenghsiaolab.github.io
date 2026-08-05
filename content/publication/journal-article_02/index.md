@@ -30,6 +30,8 @@ abstract: Chromatin is a DNA–protein complex that is densely packed in the cel
 
 tags:
 - iSCAT
+- Optics
+- Cell biology
 featured: false
 
 # links:

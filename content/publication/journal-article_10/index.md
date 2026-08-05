@@ -1,18 +1,20 @@
 ---
-title: "Impurity-tuned non-equilibrium phase transition in a bacterial carpet"
+title: "Temporal variance mapping with machine learning for label-free 3D chromatin imaging using optical interferometric microscopy"
 authors:
+- Ching-Ya Cheng
 - Yi-Teng Hsiao
-- Kuan-Ting Wu
-- Nariya Uchida
-- Wei-Yen Woon
+- Ka Lok Wong
+- Huan-Hsin Tseng
+- Yu Tsao
+- Chia-Lung Hsieh
 author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2016-05-05T00:00:00Z"
-doi: "10.1063/1.4948766"
+date: "2026-01-02T00:00:00Z"
+doi: "10.1364/BOE.583584"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2016-05-05T00:00:00Z"
+publishDate: "2026-01-02T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,17 +22,18 @@ publishDate: "2016-05-05T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Applied Physics Letters 108, 183701 (2016)"
-publication_short: "Appl. Phys. Lett. 108, 183701"
+publication: "Biomedical Optics Express 17(2), 527-543 (2026)"
+publication_short: "Biomed. Opt. Express 17(2), 527-543 (2026)"
 
-abstract: The effects of impurity on the non-equilibrium phase transition in Vibrio alginolyticus bacterial carpets are investigated through a position-sensitive-diode implemented optical tweezers-microsphere assay. The collective flow increases abruptly as we increase the rotation rate of flagella via Na+ concentration. The effects of impurities on the transition behavior are examined by mixing cells of a wild type strain (VIO5) with cells of a mutant strain (NMB136) in different swimming patterns. For dilute impurities, the transition point is shifted toward higher Na+ concentration. Increasing the impurities' ratio to over 0.25 leads to a significant drop in the collective force, suggesting a partial orientational order with a smaller correlation length.
+abstract: Label-free cell imaging using phase-sensitive optical interferometric microscopy enables noninvasive observation of living cells, but it often suffers from low imaging specificity and limited spatial resolution, particularly in the axial direction. In this study, we present a label-free method for high-resolution 3D chromatin imaging by leveraging rapidly fluctuating scattering signals arising from native biomolecular motions, captured using a high-speed and highly sensitive interferometric microscope. Optical transmission images of live cell nuclei are recorded at 1000 frames per second, and temporal variance maps are computed from these recordings. Deep learning models are then trained to map the label-free dynamics data to confocal fluorescence images of chromatin. Our results demonstrate that the resulting dynamics maps resolve fine subnuclear structures, including nucleoli and nuclear speckles—the latter being especially difficult to detect using conventional phase microscopy. Notably, the use of second-order temporal statistics leads to significantly enhanced axial resolution, enabling effective 3D imaging of chromatin architecture. This work highlights the potential of temporal signal analysis in fast, label-free optical interferometric microscopy and paves the way for broader applications in high-resolution, label-free imaging of dynamic biological structures.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Bacteria
-- Biophysics
+- iSCAT
+- Optcis
+- Machine learning
 featured: false
 
 # links:

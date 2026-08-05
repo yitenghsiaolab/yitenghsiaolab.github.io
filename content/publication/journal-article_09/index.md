@@ -32,7 +32,8 @@ abstract: We experimentally investigate the collective dynamics in bacterial car
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- bacteria
+- Bacteria
+- Biophysics
 featured: false
 
 # links:

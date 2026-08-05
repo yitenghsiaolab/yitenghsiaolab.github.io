@@ -31,7 +31,8 @@ abstract: We report the experimental observation of speeded-up collective motion
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- collective motion
+- Collective motion
+- Biophysics
 featured: false
 
 # links:
