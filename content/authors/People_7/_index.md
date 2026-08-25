@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cheng-Wei Ma 馬丞威
+title: Wei-Lun Li 李偉綸
 
 # Full name (for SEO)
 first_name: #Alice
@@ -8,7 +8,7 @@ last_name: #Wu
 
 # Username (this should match the folder name)
 authors:
-  - People_6
+  - People_7
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,25 +18,25 @@ role: #Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-  - name: 0715iloveyou@gmail.com
+  - name: a0900671765@gmail.com
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: #My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - 
-  - 
+  - #Artificial Intelligence
+  - #Computational Linguistics
+  - #Information Retrieval
 
 education:
   courses:
     - course: M.S. in Electrophysics
       institution: National Yang Ming Chiao Tung University
-      year: 2025/02 - 
-    - course: B.S. in Medicine
-      institution: Chang Gung University School of Medicine
-      year: 2014/09 - 2020/06
-
+      year: 2026/09 - 
+    - course: B.S. in Applied Science
+      institution: National Taitung University
+      year: 2022/09 - 2026/07
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -70,4 +70,5 @@ user_groups:
   - Master Students
 ---
 
-. 
+If you are interested in joining us, please contact me (Dr. Yi-Teng Hsiao).
+{{% cta cta_link="../contact/" cta_text="Join us →" %}}

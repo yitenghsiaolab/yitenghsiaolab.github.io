@@ -31,9 +31,9 @@ interests:
 
 education:
   courses:
-    - course: #PhD in Artificial Intelligence
-      institution: #Stanford University
-      year: #2012
+    - course: M.S. in Electrophysics
+      institution: National Yang Ming Chiao Tung University
+      year: 2025/09 - 
     - course: #MEng in Artificial Intelligence
       institution: #Massachusetts Institute of Technology
       year: #2009
