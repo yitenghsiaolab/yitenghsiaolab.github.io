@@ -30,9 +30,9 @@ sections:
       #title: Contact
       text: 
         <b>Previous group members:</b> <br>
-        Hsiao Ching 蕭擎 (2025.10 - 2026.08, mater student - terminated) <br>
         <br> Updated<b>:</b> 2026.08 
-
+        # Hsiao Ching 蕭擎 (2025.10 - 2026.08, mater student - terminated) <br>
+        
     design:
       columns: '2'
 ---
