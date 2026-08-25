@@ -15,7 +15,7 @@ sections:
           - PhD Students
           - Master Students
           - Undergraduate Students
-          - Alumni
+#          - Alumni
 #          - Postdoctoral Fellow, Research Assistant, & Students     
       sort_by: Params.last_name
       sort_ascending: true
@@ -23,4 +23,15 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
+
+      
+  - block: contact
+    content:
+      #title: Contact
+      text: 
+        <b>Previous group members:</b>
+        Hsiao Ching 蕭擎 (2025.10 - 2026.08, mater student - terminated)
+
+    design:
+      columns: '2'
 ---
