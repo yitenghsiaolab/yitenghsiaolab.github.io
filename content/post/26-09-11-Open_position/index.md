@@ -10,7 +10,7 @@ We are particularly interested in understanding <b>nanoscale cell biophysics</b>
 
 <!--more-->
 <u><b>Qualifications</u></b><br>
-Applicants should have a background in biophysics, biomedical engineering, life sciences, or a related field. Experience in optical microscopy, biological sample preparation (cell culture), or cell-based experiments is preferred. Candidates should demonstrate independent thinking, and teamwork skills.
+Applicants should have a background in <b>biophysics, biomedical engineering, life sciences, or a related field</b>. Experience in optical microscopy, <b>biological sample preparation (cell culture)</b>, or cell-based experiments is preferred. Candidates should demonstrate independent thinking, and teamwork skills.
 
 <u><b>Salary</u></b><br>
 The salary will be provided according to NYCU salary standards. Starting monthly salary is NT$43,965 for Master’s degree holders, and NT$39,180 for Bachelor’s degree holders, subject to adjustment based on education and experience. This position is covered by the Labor Standards Act. 
