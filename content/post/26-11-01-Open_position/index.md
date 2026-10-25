@@ -1,5 +1,5 @@
 ---
-title: 招募新人!!! 
+title: Open Position - 招募新人!!! 
 date: 2026-10-22
 #image:
 #  focal_point: 'top'
