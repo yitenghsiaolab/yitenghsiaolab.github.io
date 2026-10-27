@@ -63,19 +63,6 @@ sections:
 #      spacing:
 #        padding: ['20px', '0', '20px', '0']
 #      css_class: fullscreen
-  
-  - block: hero
-    content:
-      title: |
-        Welcome to 
-      image:
-        filename: Lab_10.png
-      text: |
-        Hsiao Lab @ NYCU Electrophysics
-        <font size="5"><p style="text-align: justify;">
-        We focus on developing innovative optical microscopy techniques for quantitative biophysical measurements, offering new perspectives in biophysics research. 
-        {{% cta cta_link="../contact/" cta_text="Join us →" %}}
-        </p></font>
         
   - block: collection
     content:
